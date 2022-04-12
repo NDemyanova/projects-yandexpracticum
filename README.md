@@ -1,2 +1,2 @@
-# projects_yandexpracticum
+# projects-yandexpracticum
 Projects by Yandex Practicum
