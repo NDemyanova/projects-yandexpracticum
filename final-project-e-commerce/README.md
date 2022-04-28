@@ -10,7 +10,7 @@
 
 ## Стек
 
-pandas, requests, numpy, scipy, math, plotly, pymystem3, collections, matplotlib, seaborn, datetime, sklearn
+pandas, numpy, scipy, math, pymystem3, collections, matplotlib, seaborn, datetime, sklearn
 
 ## Статус проекта
 
